@@ -14,8 +14,6 @@ users should be able to :
 -https://joyobaidu.github.io/
 -
 
-## My process
-
 ### Built with
 -Semantic HTML5 markup
 -CSS custom properties
@@ -23,11 +21,15 @@ users should be able to :
 - Mobile-first-workflow
 
 ### What I learned
+-I learned more about flex and the overflow property.
 
 ### Continued Development
+-CSS flex properties.
 
 ### useful resources
+-www.w3schools.com
+-Stack.
 
 ## Author
-
+- Joy Obaidu
 ## Acknowledgements
