@@ -15,7 +15,7 @@ body{
     flex-wrap: wrap;
     width: 500px;
     overflow: hidden;
-    border-radius: 20px;
+    border-radius: 10px 10px 10px 10px;
     transform: translate(70%, 30%);
 }
 .image{
