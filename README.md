@@ -12,7 +12,7 @@ users should be able to :
 
 ### Links
 -https://joyobaidu.github.io/
--
+-https://github.com/JoyObaidu/Product-preview-card-component-solution
 
 ### Built with
 -Semantic HTML5 markup
