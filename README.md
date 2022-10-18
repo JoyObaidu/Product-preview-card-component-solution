@@ -9,6 +9,8 @@ users should be able to :
 - see hover and focus states for interactive elements.
 
 ##Screenshots
+# Desktop View
+![Screenshot 2022-10-18 at 11-55-48 Document](https://user-images.githubusercontent.com/106669781/196412242-268c9224-75e6-4425-8298-2dae556fe596.png)
 
 ### Links
 -https://joyobaidu.github.io/
@@ -25,6 +27,7 @@ users should be able to :
 
 ### Continued Development
 -CSS flex properties.
+- Media Qeury.
 
 ### useful resources
 -www.w3schools.com
